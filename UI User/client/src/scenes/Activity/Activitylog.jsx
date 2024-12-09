@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { useTheme } from "@mui/material";
 import React from "react";
 import Settings from "../../scenes/settings/Settings";
-import Languageselector from "../../components/language-selector";
+
 
 
 const  Activitylog= () => {
